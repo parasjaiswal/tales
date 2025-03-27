@@ -1,7 +1,7 @@
 ---
-title: "The Midnight Visitor"
-date: 2025-03-27
----
+Title: "The Midnight Visitor"
+Date: 2025-03-27
+
 
 Once upon a time, in a serene lake surrounded by lush, green hills, there lived a magical fish unlike any other. This fish was shimmering gold with silver fins that sparkled in sunlight. Legends said the fish had the incredible power to grant a single wish to whoever caught it.
 
@@ -20,5 +20,6 @@ As the years passed, Jack grew old. Before his peaceful passing, he visited the 
 "You have discovered the true secret of happiness," said the magical fish, "It thrives where kindness and generosity bloom. Your wish has become a legacy."
 
 Though Jack eventually passed away, his legacy lived on in the hearts and smiles of the villagers. The magical fish remained in the lake, forever reminding everyone of the extraordinary magic that ordinary kindness and generosity can create.
+---
 
 
