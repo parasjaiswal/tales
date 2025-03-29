@@ -2,4 +2,3 @@ baseURL = "https://whisperingtales.in/"
 languageCode = "en-us"
 title = "Whispering Tales"
 theme = "ananke"
-
